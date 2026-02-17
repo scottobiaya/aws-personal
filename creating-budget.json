@@ -3,7 +3,7 @@
         "Amount": "50",
         "Unit": "USD"
     },
-    "BudgetName": "Exampl Tag Budget",
+    "BudgetName": "new",
     "BudgetType": "COST",
     "CostFilters": {
         "TagKeyValue": [
